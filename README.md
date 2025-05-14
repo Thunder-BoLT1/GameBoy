@@ -40,7 +40,7 @@ This project demonstrates advanced **bare-metal programming**, low-level I/O han
 
 ## 🔧 Development Setup
 
-- **Programming Language**: 32-bit ARM Assembly (Thumb-2)
+- **Programming Language**: 32-bit ARM Assembly
 - **IDE**: [Keil µVision](https://www.keil.com/)
 - **Toolchain**: Keil ARM Compiler
 - **Display Interface**: GPIO (FSMC or bit-banged parallel)
@@ -50,7 +50,7 @@ This project demonstrates advanced **bare-metal programming**, low-level I/O han
 
 ## 📋 Features
 
-- 🔧 Bare-metal game engine (no RTOS or external libraries)
+- 🔧 Bare-metal game engine (no external libraries)
 - 🎮 Suite of classic-style games with unique mechanics
 - 👥 Two-player gameplay supported in select games
 - 🖼️ Optimized graphics for 8-bit rendering on ILI9486
